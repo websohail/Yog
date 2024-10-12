@@ -1,0 +1,558 @@
+*{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+body{
+	background-color:#fffcef;   /*#fcf3e0;*/
+}
+.clearfix{
+	clear:both;
+}
+.boxin{
+	width:90%;
+	margin:0 auto;
+}
+#header{
+	width:100%;
+	height:90px;
+}
+#logo{
+	padding:20px 0px;
+	float:left;
+}
+#address{
+	padding:20px 0px;
+	float:right;
+}
+#address .fa-phone{
+	color:#30aca6;
+	padding-bottom:10px;
+	
+	float:right;
+	
+}
+#address p{
+	color:#e88300; /*#e89933;*/
+	font-family: 'pacifico',cursive;
+}
+#nav{
+	width:100%;
+	margin:20px 0px 0px;
+}
+#nav .boxin{
+	background-color:#ffdd47;
+	border-radius:5px 5px 0px 0px;
+	box-shadow:5px 5px 5px #eee;
+}
+#nav ul{
+	width:55%;
+	margin:0 auto;
+	list-style:none;
+	padding:15px 0px;
+}
+#nav ul li{
+	display:inline;
+	margin:0px 20px;
+}
+#nav ul li a{
+	text-decoration:none;
+	color:#995803;
+	font-size:22px;
+	font-weight:bold;
+}
+#nav ul li a:hover{
+	text-decoration:underline;
+}
+#nav ul li .active{
+	text-decoration:underline;
+}
+#slider .boxin img{
+	width:100%;
+}
+#box1{
+	width:100%;
+	margin:80px 0px;
+}
+#box1 .section-3-col{
+	width:30%;
+	margin:0px 1.5%;
+	float:left;
+}
+#box1 .section-3-col .faa{
+	width:100px;
+	height:100px;
+	margin:0 auto;
+}
+#box1 .section-3-col .fa{
+	color:#e88300;
+}
+#box1 .section-3-col h2{
+	text-align:center;
+	color:#30aca6;
+	font-family:'pacifico',cursive;
+	letter-spacing:2px;
+}
+#box1 .section-3-col p{
+	line-height:20px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:15px 10px;
+}
+#box2{
+	width:100%;
+}
+#box2 h1{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	padding-bottom:40px;
+}
+#box2 .section2{
+	width:65%;
+	float:left;
+}
+#box2 .section2 p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:5px 50px 5px 10px;
+	text-indent:50px;
+	font-weight:bold;
+}
+#box2 .section2  #title1{
+	color:#30aca6;
+	padding:35px 0px;
+	text-align:center;
+}
+#box3{
+	width:100%;
+	margin:80px 0px;
+}
+#box3 .section-3-col{
+	width:30%;
+	margin:0px 1.5%;
+	float:left;
+}
+#box3 .section-3-col .img img{
+	width:100%;
+	height:250px;
+}
+#box3 .section-3-col h2{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	padding-bottom:10px;
+	font-size:20px;
+}
+#box3 .section-3-col p{
+	line-height:20px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:15px 10px;
+}
+#box4{
+	width:100%;
+}
+#box4 #line{
+	border:1px solid #e88300;
+	width:100%;
+	height:50px;
+	margin-bottom:50px;
+}
+#box4 #line h2{
+	line-height:50px;
+	color:#5b3400;
+	font-size:20px;
+	padding:0px 0px 0px 40px;
+	letter-spacing:2px;
+	float:left;
+}
+#box4 #line #btn{
+	float:right;
+	margin-right:120px;
+}
+#box4 #line #btn a{
+	text-decoration:none;
+	color:#fff;
+	background-color:#e88300;
+	padding:10px 10px;
+	border-radius:5px;
+}
+#box4 #line #btn a:hover{
+	background-color:#30aca6;
+}
+#footer{
+	width:100%;
+	background-color:#ffdd47;
+}
+#footer .section-3-col{
+	width:30%;
+	margin:0px 1.5% 50px;
+	float:left;
+}
+#footer .section-3-col h2{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	padding:40px 0px 20px;
+	font-size:20px;
+	text-decoration:underline;
+}
+#footer .section-3-col p{
+	text-align:center;
+	line-height:20px;
+	color:#995803;
+	letter-spacing:2px;
+	padding:10px 10px;
+}
+#footer .section-3-col iframe{
+	margin:0px 0px 0px 60px;
+}
+#footer .section-3-col .fa{
+	color:#e88300;
+	margin:20px 10px;
+}
+#footer .section-3-col .fa:hover{
+	color:#30aca6;
+}
+#footer .section-3-col .fa-facebook-square{
+	margin-left:80px;
+}
+#Copyright-footer{
+	margin:20px;
+}
+#Copyright-footer p{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	font-size:16px;
+}
+#Copyright-footer p a{
+	color:#30aca6;
+	text-decoration:none;
+}
+/*HOME PAGE CSS CODE ENDS HERE*/
+/*======================================================================*/
+/*======================================================================*/
+/*ABOUT PAGE CSS CODE START HERE*/
+#title{
+	margin:40px 0px;
+}
+#title .boxin{
+	border-bottom:1px solid #e88300;
+}
+#title .boxin p{
+	text-align:center;
+	color:#5b3400;
+	font-family:cursive;
+	font-size:20px;
+}
+#page-banner .boxin img{
+	width:100%;
+}
+#box5{
+	width:100%;
+	margin:60px 0px;
+}
+#box5 .aboutsec{
+	width:65%;
+	float:left;
+}
+#box5 .aboutsec p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:5px 50px 5px 10px;
+	text-indent:50px;
+	font-weight:bold;
+}
+#box5 .aboutsection1 h2{
+	text-align:left;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	font-size:20px;
+}
+#box5 .aboutsec1{
+	width:30%;
+	float:right;
+}
+#box5 .aboutsec1 ul{
+	margin-left:20px;
+}
+#box5 .aboutsection1 ul li{
+	color:#e88300;
+	padding:10px 0px 5px 0px;
+	font-family:cursive;
+	letter-spacing:2px;
+	text-align:left;
+}
+#box6{
+	width:100%;
+}
+#box6 .boxin{
+	border-top:1px solid #e88300;	
+	padding:40px 0px;
+}
+#box6 .founder{
+	width:30%;
+	float:left;
+}
+#box6 .founder .img{
+	width:200px;
+	height:250px;
+	margin:0px 0px 0px 80px;
+}
+#box6 .founder .img img{
+	width:100%;
+	height:250px;
+}
+#box6 .aboutsection2 h2{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	font-size:20px;
+	padding-bottom:20px;
+}
+#box6 .aboutsection2 p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+}
+#box6 .aboutsection2 h3{
+	font-family:cursive;
+	color:#5b3400;
+	padding:20px 0px 0px 0px;
+}
+#box7{
+	width:100%;
+	margin:50px 0px 50px 0px;
+}
+#box7 .aboutsec2{
+	width:35%;
+	float:left;
+}
+#box7 .aboutsec2 .img{
+	width:100%;
+}
+#box7 .aboutsec2 .img img{
+	width:100%;
+}
+#box7 .aboutsec3{
+	width:60%;
+	float:right;
+}
+#box7 .aboutsec3 .img{
+	width:100%;
+}
+#box7 .aboutsec3 .img img{
+	width:100%;
+	height:280px;
+}
+#box7 .aboutsection3 p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding-top:15px;
+}
+/*ABOUT US PAGE CSS CODE ENDS HERE*/
+/*======================================================================*/
+/*======================================================================*/
+/*CONTACT PAGE CSS CODE START HERE*/ 
+#box8{
+	width:100%;
+	margin:50px 0px 50px 0px;
+}
+#box8 .contactsec1{
+	width:35%;
+	float:left;
+}
+#box8 .contactsec1 h2{
+	color:#5b3400;
+	font-size:20px;
+	padding:0px 0px 0px 40px;
+	letter-spacing:2px;
+	text-align:center;
+	font-family:cursive;
+}
+#box8 .contactsec1 .contactpara{
+	text-align:center;
+	font-weight:bold;
+	font-family:cursive;	
+}
+#box8 .contactsec1 p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding-top:15px;
+}
+#box8 .contactsec2{
+	width:60%;
+	float:right;
+}
+#box8 .contactsec2 h3{
+	padding:10px 0px;
+	font-family:Merriweather,cursive;
+}
+#box8 .contactsec2 input{
+	width:70%;
+	padding:10px 15px;
+	border:1px solid #995803;
+}
+#box8 .contactsec2 textarea{
+	padding:10px 15px;
+	border:1px solid #995803;
+}
+#box8 .contactsec2 .sbtn{
+	text-align:right;
+	margin:0px 190px 0px 0px;
+}
+#box8 .contactsec2 .sbtn a{
+	color:#fff;
+	background-color:#30aca6;
+	padding:10px 15px;
+	text-decoration:none;
+	border-radius:5px;
+}
+#box8 .contactsec2 .sbtn a:hover{
+	background-color:#e88300;
+}
+/*CONTACT PAGE CSS CODE ENDS HERE*/
+/*======================================================================*/
+/*======================================================================*/
+/*OUR CLASSES PAGE CSS CODE START HERE*/
+#box9{
+	width:100%;
+	margin:80px 0px;
+}
+#box9 .section-3-col{
+	width:30%;
+	margin:0px 1.5%;
+	float:left;
+}
+#box9 .section-3-col .img{
+	width:90%;
+	height:200px;
+	margin:0 auto;
+}
+#box9 .section-3-col .img img{
+	width:100%;
+	height:100%;
+}
+#box9 .section-3-col h2{
+	text-align:center;
+	color:#5b3400;
+	font-family:cursive;
+	letter-spacing:2px;
+	font-size:20px;
+	padding-top:15px;
+}
+#box9 .section-3-col p{
+	line-height:20px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:15px 10px;
+}
+#box10{
+	width:100%;
+	margin:60px 0px;
+}
+#box10 .aboutsec{
+	width:65%;
+	float:left;
+}
+#box10 .aboutsec p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding:5px 50px 5px 10px;
+	text-indent:50px;
+	font-weight:bold;
+}
+#box10 .aboutsec .h2comment{
+	color: #30aca6;
+    padding: 35px 0px;
+    text-align: center;
+	
+}
+#box10 .aboutsection1 h2{
+	text-align:left;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	font-size:20px;
+}
+#box10 .aboutsec1{
+	width:30%;
+	float:right;
+}
+#box10 .aboutsec1 ol{
+	margin-left:10px;
+	list-style:none;
+}
+#box10 .aboutsection1 ol li{
+	color:#e88300;
+	padding:10px 0px 5px 0px;
+	font-family:cursive;
+	letter-spacing:2px;
+	text-align:left;
+}
+#box10 .aboutsection1 ol li span{
+	color:#fff;
+	background-color:#30aca6;
+	padding:1px 3px;
+	border-radius:3px;
+	margin-right:5px;
+}
+#box11{
+	width:100%;
+	margin:50px 0px 50px 0px;
+}
+#box11 .aboutsec2{
+	width:35%;
+	float:right;
+}
+#box11 .aboutsec2 h2{
+	text-align:center;
+	font-family:cursive;
+	color:#5b3400;
+	letter-spacing:2px;
+	font-size:20px;
+}
+#box11 .aboutsec3{
+	width:60%;
+	float:left;
+}
+#box11 .aboutsec3 .img{
+	width:100%;
+}
+#box11 .aboutsec3 .img img{
+	width:100%;
+	height:400px;
+}
+#box11 .aboutsection3 p{
+	line-height:25px;
+	color:#995803;
+	letter-spacing:2px;
+	text-align:justify;
+	padding-top:15px;
+}
+
+
+
+
